@@ -22,7 +22,7 @@
 #### VS Code,
 #### Adobe Photoshop, Figma
 #### BEM methodology
-#### Webpack
+#### Webpack aa
 
 
 
